@@ -1,4 +1,4 @@
-# Schedule builder
+# CSV Schedule builder
 - This project was initiated becasuse of my role as Fitness Supervisor Lead at my school's recreation center. One of my main roles as a Fitness Supervisor Lead is to build the schedule based on the avaliability indicated by the Fitness Supervisors at Halas. Because these are all studednt held positions, the schedule must be built each semester aroud their class schedules and givin avalibily. Since the schedule frequently rebuilt, I saw a need for a tool to automate this task and thus make my role as FS lead more accurate and streamiled
 
 ## how to use
