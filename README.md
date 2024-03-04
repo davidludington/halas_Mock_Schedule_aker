@@ -4,6 +4,7 @@
 ## how to use
 - change line 4 to match the exact name of you csv file
 - save file
+- create csv file with the csv format indicated below with the times that employess are NOT avalible to work
  
 ```bash
 python3 ./schedule.py  
