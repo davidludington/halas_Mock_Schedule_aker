@@ -5,9 +5,9 @@
 - change line 4 to match the exact name of you csv file
 - save file
  
-'''bash
+```bash
 python3 ./schedule.py  
-'''
+```
 ## CSV format 
 - as of now the csv file you wish to build a schedule must be in the format of "Name, hours requested, Monday, Wednesday, Tuesday, Thursday, Friday, Saturday, Sunday"
 
